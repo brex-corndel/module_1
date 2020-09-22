@@ -1,0 +1,24 @@
+x
+goto 1236
+goto 4573
+goto calc + 5520 54
+goto 8763
+goto calc / 4692 22
+goto calc + 700 26
+goto calc - 1727 10
+goto calc / 2508 5
+goto 3644
+goto calc - 5930 2
+goto 8628
+goto 7905
+goto calc / 5276 85
+goto calc + 2728 49
+goto calc - 2716 2
+goto calc / 9736 56
+goto calc + 5891 76
+goto 4087
+goto calc - 7482 87
+goto 2071
+goto calc / 3103 27
+goto calc / 9267 81
+goto calc / 9267 81

@@ -1,0 +1,21 @@
+https://github.com/j3rry99/git-playground
+
+https://github.com/j3rry99/corndel
+j3rry99/Namaste1945
+
+https://github.com/j3rry99/corndel.git
+
+jeremy@jeremy-Latitude-E7250:~/Corndel/corndel$ sudo apt-get install git
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+git is already the newest version (1:2.17.1-1ubuntu0.7).
+0 to upgrade, 0 to newly install, 0 to remove and 38 not to upgrade.
+jeremy@jeremy-Latitude-E7250:~/Corndel/corndel$ 
+
+jeremy@jeremy-Latitude-E7250:~/Corndel/corndel$ git --version
+git version 2.17.1
+
+
+
+
